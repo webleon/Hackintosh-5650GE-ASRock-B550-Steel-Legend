@@ -1,1 +1,1 @@
-# Hackintosh-5650GE-ASRock-B550-Steel-Legend
+# Hackintosh-5650GE-ASRock-B550M-Steel-Legend
