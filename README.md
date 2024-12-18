@@ -1,5 +1,5 @@
 # Hackintosh-5650GE-ASRock-B550M-Steel-Legend
-Tested on Sequoia 15.2, almost everything works well.
+OpenCore version 1.0.3, tested on Sequoia 15.2, almost everything works well.
 
 ![](https://raw.githubusercontent.com/webleon/Hackintosh-5650GE-ASRock-B550M-Steel-Legend/main/IMG/iShot_2024-12.png)
 ## Hardware Specs
